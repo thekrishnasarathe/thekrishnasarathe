@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Krishna 👋
 
-<!--
-**thekrishnasarathe/thekrishnasarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a BTech Computer Science student specializing in Artificial Intelligence and Data Science.  
+I am passionate about Python, Machine Learning, Data Science, and building real-world AI projects.
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
+- Learning Python for AI & Data Science
+- Building beginner to intermediate AI/ML projects
+- Improving problem-solving and coding skills
+- Preparing for a strong career in AI and software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Data Science
+- NumPy
+- Pandas
+- Statistics
+- SQL
+- Git & GitHub
+- Problem Solving
+
+## 📌 Goals
+- Build strong AI/ML projects
+- Contribute to open source
+- Create a professional developer portfolio
+- Become an AI Engineer
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/krishna-sarathe-9a749a297
+- GitHub: https://www.github.com/in/thekrishnasarathe
+
+---
+⭐ Consistently learning, building, and improving.
