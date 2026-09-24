@@ -1,12 +1,13 @@
 # Hi, I'm Krishna 👋
 
 ## 🚀 About Me
-I am a BTech Computer Science student specializing in Artificial Intelligence and Data Science.  
-I am passionate about Python, Machine Learning, Data Science, and building real-world AI projects.
+I am a BTech Computer Science Undergraduate specializing in Artificial Intelligence and Data Science.  
+I am passionate about Python, Machine Learning, Data Science, and building real-world AI projects & products.
 
 ## 🎯 Current Focus
-- Learning Python for AI & Data Science
+- Experting Python for AI & Data Science
 - Building beginner to intermediate AI/ML projects
+- Practising Data Structures & Algorithms
 - Improving problem-solving and coding skills
 - Preparing for a strong career in AI and software development
 
@@ -16,10 +17,12 @@ I am passionate about Python, Machine Learning, Data Science, and building real-
 - Data Science
 - NumPy
 - Pandas
+- Matplotlib
 - Statistics
-- SQL
+- Optimization Techniques( Calculus)
 - Git & GitHub
 - Problem Solving
+- Most Important " 😂 Google's Antigravity & Claude "
 
 ## 📌 Goals
 - Build strong AI/ML projects
@@ -28,7 +31,7 @@ I am passionate about Python, Machine Learning, Data Science, and building real-
 - Become an AI Engineer
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/krishna-sarathe-9a749a297
+- LinkedIn: https://www.linkedin.com/in/krishna-sarathe
 - GitHub: https://www.github.com/in/thekrishnasarathe
 
 ---
