@@ -15,14 +15,16 @@ I am passionate about Python, Machine Learning, Data Science, and building real-
 - Python
 - Machine Learning
 - Data Science
+- JavaScript
 - NumPy
 - Pandas
 - Matplotlib
 - Statistics
 - Optimization Techniques( Calculus)
 - Git & GitHub
+- Vercel & Render
 - Problem Solving
-- Most Important " 😂 Google's Antigravity & Claude "
+- Most Important " 😂 Google's Antigravity "
 
 ## 📌 Goals
 - Build strong AI/ML projects
